@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /sitemap/
+
+Host: https://yale-school-of-arts.github.io
+Sitemap: https://yale-school-of-arts.github.io/sitemap.xml
